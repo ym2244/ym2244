@@ -7,8 +7,9 @@
 <h3 align="center">Computer Science @ University of Waterloo • Backend Developer • Hackathon Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=480&lines=Passionate+about+backend+systems+and+AI+projects.;Love+turning+ideas+into+real+tools.;Building+for+impact,+with+every+line+of+code.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&height=90&width=500&lines=Passionate+about+backend+systems+and+AI+projects.;Love+turning+ideas+into+real+tools.;Building+for+impact,+with+every+line+of+code.">
 </p>
+
 
 ---
 
