@@ -14,7 +14,7 @@
 
 - 🎓 First-year CS student @ University of Waterloo  
 - 💻 Passionate about system design, backend development, and AI tools  
-- ⚙️ Strong in **C/C++**, **Python**, **TypeScript**, and **FastAPI**  
+- ⚙️ Strong in **C/C++** and **Python**
 - 🧠 Hackathon enthusiast — I love building real-world tools with friends and LLMs  
 - 🌐 Contributor to open-source & collaborative tech platforms  
 
