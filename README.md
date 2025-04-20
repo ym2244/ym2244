@@ -29,7 +29,7 @@
 - Real-time itinerary updates on interactive maps with temporary & fixed markers  
 - Developed for **Azure AI Developer Hackathon**  
 
-#### 🐾 [AI Virtual Desktop Pet](https://github.com/yourusername/VirtualPetAI)
+#### 🐾 [AI Virtual Desktop Pet](https://github.com/ym2244/AI-Virtual-Pet)
 *Interactive PyQt desktop pet powered by Gemini AI*
 - Created dual-window experience: emotion-driven pet UI + chat interface
 - Integrated mood scoring & animations, built “Play Mode” with shared threading
