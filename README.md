@@ -22,7 +22,7 @@
 
 ### 🚀 Projects I’m Proud Of
 
-#### 🗺️ [AI Travel Plan Creator](https://github.com/yourusername/TravelPlanCreator)
+#### 🗺️ [AI Travel Plan Creator](https://github.com/ym2244/ContentCreator-TravelPlan-api)
 *Multi-agent system using LLaMA 3.3, FastAPI, Streamlit, and Google Maps API*
 - Designed structured multi-turn dialog logic with `<CHAT>` + `<CONTENT>` format
 - Built cultural tips, visual route maps, slogan generator, and restaurant recommendations  
