@@ -1,8 +1,5 @@
 <!-- Lydia Gao's GitHub Profile README -->
 
-<!-- Top Contributor Badge (update USERNAME with your GitHub ID) -->
-[![committers.top badge](https://user-badge.committers.top/canada/lydiagao.svg)](https://user-badge.committers.top/canada/lydiagao)
-
 <h1 align="center" style="font-family: 'Times New Roman',Times, serif;">Hi, I'm Lydia Gao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="center">Computer Science @ University of Waterloo • Backend Developer • Hackathon Builder</h3>
 
