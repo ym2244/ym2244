@@ -20,7 +20,7 @@
 
 ---
 
-### 🚀 Projects I’m Proud Of
+### 🚀 Projects
 
 #### 🗺️ [AI Travel Plan Creator](https://github.com/ym2244/AI-Virtual-Pet)
 *Multi-agent system using LLaMA 3.3, FastAPI, Streamlit, and Google Maps API*
