@@ -51,5 +51,5 @@
 ```bash
 Languages:      Python · C/C++ · JavaScript/TypeScript · Bash · Racket  
 Frameworks:     FastAPI · PyQt5 · React · Node.js  
-Tools:          Git · GDB · Valgrind · VS Code · Google Maps API  
+Tools:          Git · VS Code · Google Maps API  
 Other:          Streamlit · REST APIs
