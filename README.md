@@ -1,7 +1,7 @@
 <!-- Lydia Gao's GitHub Profile README -->
 
 <h1 align="center">Hi, I'm Lydia Gao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
-<h3 align="center">Computer Science @ University of Waterloo · Backend Engineer · Hackathon Builder</h3>
+<h3 align="center">Computer Science @ University of Waterloo · Backend Engineer</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Building+full-stack+apps+with+FastAPI+and+LLMs.;Lover+of+systems,+APIs,+and+real-world+impact.;Crafting+tools+from+code,+idea+to+deployment.">
