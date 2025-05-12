@@ -15,7 +15,6 @@
 - 💻 Strong interest in **backend development**, **AI tools**, and **system design**
 - ⚙️ Skilled in **Python**, **C/C++**, **FastAPI**, **PostgreSQL**, and **multithreaded systems**
 - 🛠️ Hackathon builder: love fast iterations, clean APIs, and shipping real tools
-- 🛰️ Contributor @ CS Club and Waterloo Aerial Robotics Group (WARG)
 
 ---
 
