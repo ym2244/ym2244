@@ -12,8 +12,8 @@
 ### 💡 About Me
 
 - 🎓 Computer Science student @ University of Waterloo  
-- 💻 Strong interest in **backend development**, **AI tools**
-- ⚙️ Skilled in **Python**, **C/C++**, **FastAPI**, **PostgreSQL**
+- 💻 Strong interest in **backend development** and **AI tools**
+- ⚙️ Skilled in **Python**, **C/C++**, **FastAPI** and **PostgreSQL**
 - 🛠️ Hackathon builder: love fast iterations, clean APIs, and shipping real tools
 
 ---
