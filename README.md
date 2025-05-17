@@ -48,5 +48,5 @@
 ```bash
 Languages:      Python · C/C++ · JavaScript · Bash · SQL · Racket  
 Frameworks:     FastAPI · SQLAlchemy · Streamlit · PyQt · Jinja2  
-Tools:          PostgreSQL · Alembic · Git/GitHub · Render · VS Code · Linux  
+Tools:          PostgreSQL · Alembic · Git/GitHub · Render · VS Code · Linux/Windows
 APIs:           Google Maps API · Gemini API · OAuth2 · JWT Auth
