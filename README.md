@@ -46,7 +46,7 @@
 ### 🧰 Tech Stack
 
 ```bash
-Languages:      Python · C/C++ · JavaScript · Bash · SQL · Racket  
+Languages:      Python · C/C++ · JavaScript · Bash · SQL · Racket · React 
 Frameworks:     FastAPI · SQLAlchemy · Streamlit · PyQt · Jinja2  
 Tools:          PostgreSQL · Alembic · Git/GitHub · Render · VS Code · Linux/Windows
 APIs:           Google Maps API · Gemini API · OAuth2 · JWT Auth
