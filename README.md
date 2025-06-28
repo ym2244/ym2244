@@ -9,44 +9,45 @@
 
 ---
 
-### 💡 About Me
+### About Me
 
-- 🎓 Computer Science student @ University of Waterloo  
-- 💻 Strong interest in **backend development** and **AI tools**
-- ⚙️ Skilled in **Python**, **C/C++**, **FastAPI** and **PostgreSQL**
-- 🛠️ Hackathon builder: love fast iterations, clean APIs, and shipping real tools
-
----
-
-### 🚀 Featured Projects
-
-#### 🗓️ [Class Reminder App](https://github.com/ym2244/Teacher_Reminder_App)
-*Full-stack role-based task manager for teachers and students*
-
-- Built with **FastAPI**, **PostgreSQL**, **JWT auth**, and **Jinja2**
-- Teachers assign and manage tasks; students complete their own – fully secure and dynamic UI
-- Deployed with **Render**, integrated **Alembic**, **Pydantic**, and role-aware dashboards
-
-#### 🌍 [AI Travel Plan Creator](https://github.com/ym2244/ContentCreator-TravelPlan-api)  
-*LLM-powered itinerary generator built for Azure AI Developer Hackathon*
-
-- Developed a multi-agent planner using **FastAPI**, **Groq LLaMA 3.3**, and **Streamlit**
-- Designed a structured `<CHAT>` + `<CONTENT>` format to capture 3000+ token memory
-- Dynamic map rendering using **Google Maps API**, with restaurant tips and daily markers
-
-#### 🐾 [AI Virtual Desktop Pet](https://github.com/ym2244/AI-virtual-pet)
-*Emotion-aware desktop pet powered by Gemini Pro*
-
-- Multi-window PyQt app with mood-based animations and gesture interactions
-- Sub-100ms multithreaded chat + animation backend
-- Built independently at **Hackatopia 2025**
+- Computer Science student at the University of Waterloo  
+- Focused on backend development, distributed systems and AI integrations  
+- Comfortable with **Python**, **C/C++**, **JavaScript**, **SQL** and shell scripting  
+- Enjoy fast iterations, clean APIs and end-to-end deployments
 
 ---
 
-### 🧰 Tech Stack
+### Featured Projects
+
+#### Class Reminder App  
+[github.com/ym2244/Teacher_Reminder_App](https://github.com/ym2244/Teacher_Reminder_App)  
+Role-based task manager for teachers and students.  
+- FastAPI backend with Pydantic validation and SQLAlchemy models  
+- JWT and Google OAuth2 authentication, role-aware Jinja2 interfaces  
+- Deployed on Render with AWS RDS, Alembic migrations and CI integration
+
+#### MapFuture SPA  
+[github.com/ym2244/React-projects/tree/master/MapFuture](https://github.com/ym2244/React-projects/tree/master/MapFuture)  
+Single-page travel planning app from Azure AI Developer Hackathon.  
+- Multi-agent itinerary generator using FastAPI and Groq LLaMA 3.3  
+- React front end with RESTful API integration, Docker-containerized  
+- Streamlit demo with dynamic Google Maps route rendering
+
+#### AI Virtual Desktop Pet  
+[github.com/ym2244/AI-virtual-pet](https://github.com/ym2244/AI-virtual-pet)  
+Emotion-aware desktop companion built at Hackatopia 2025.  
+- PyQt GUI, Gemini Pro API for sentiment analysis and mood animations  
+- Multithreaded chat and animation engine with sub-100 ms responsiveness  
+- Drag, feed and interaction modes driving real-time UI updates
+
+---
+
+###  Tech Stack
 
 ```bash
 Languages:      Python · C/C++ · JavaScript · Bash · SQL · Racket
-Frameworks:     FastAPI · SQLAlchemy · Streamlit · PyQt · Jinja2  
-Tools:          PostgreSQL · Alembic · Git/GitHub · Render · VS Code · Linux/Windows
+Frameworks:     FastAPI · React · SQLAlchemy · Next.js · Tailwind · Pandas  
+Tools:          Docker · Git/GitHub · Render · AWS RDS · VS Code · Postman
+Databases:      PostgreSQL · Redis · RabbitMQ · Kafka
 APIs:           Google Maps API · Gemini API · OAuth2 · JWT Auth
