@@ -20,26 +20,24 @@
 
 ### Featured Projects
 
-#### Class Reminder App  
-[github.com/ym2244/Teacher_Reminder_App](https://github.com/ym2244/Teacher_Reminder_App)  
-Role-based task manager for teachers and students.  
-- FastAPI backend with Pydantic validation and SQLAlchemy models  
-- JWT and Google OAuth2 authentication, role-aware Jinja2 interfaces  
-- Deployed on Render with AWS RDS, Alembic migrations and CI integration
+#### [Class Reminder App](https://github.com/ym2244/Teacher_Reminder_App)  
+*Role-based task manager for teachers and students*  
+- **Backend:** FastAPI with Pydantic validation and SQLAlchemy ORM  
+- **Auth:** JWT plus Google OAuth2, role-aware Jinja2 templates  
+- **Deployment:** Render hosting, AWS RDS database, Alembic migrations, CI pipeline  
 
-#### MapFuture SPA  
-[github.com/ym2244/React-projects/tree/master/MapFuture](https://github.com/ym2244/React-projects/tree/master/MapFuture)  
-Single-page travel planning app from Azure AI Developer Hackathon.  
-- Multi-agent itinerary generator using FastAPI and Groq LLaMA 3.3  
-- React front end with RESTful API integration, Docker-containerized  
-- Streamlit demo with dynamic Google Maps route rendering
+#### [MapFuture SPA](https://github.com/ym2244/React-projects/tree/master/MapFuture)  
+*Single-page travel planner from Azure AI Developer Hackathon*  
+- **Planner Engine:** FastAPI + Groq LLaMA 3.3 multi-agent itinerary generator  
+- **Front End:** React SPA with RESTful API integration, Docker-containerized  
+- **Demo:** Streamlit prototype featuring dynamic Google Maps route rendering  
 
-#### AI Virtual Desktop Pet  
-[github.com/ym2244/AI-virtual-pet](https://github.com/ym2244/AI-virtual-pet)  
-Emotion-aware desktop companion built at Hackatopia 2025.  
-- PyQt GUI, Gemini Pro API for sentiment analysis and mood animations  
-- Multithreaded chat and animation engine with sub-100 ms responsiveness  
-- Drag, feed and interaction modes driving real-time UI updates
+#### [AI Virtual Desktop Pet](https://github.com/ym2244/AI-virtual-pet)  
+*Emotion-aware desktop companion built at Hackatopia 2025*  
+- **UI:** PyQt application with mood-driven animations powered by Gemini Pro  
+- **Engine:** Multithreaded chat + animation loop with <100 ms response time  
+- **Features:** Drag, feed and interaction modes trigger real-time UI updates  
+
 
 ---
 
