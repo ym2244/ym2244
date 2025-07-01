@@ -26,7 +26,7 @@
 - **Auth:** JWT plus Google OAuth2, role-aware Jinja2 templates  
 - **Deployment:** Render hosting, AWS RDS database, Alembic migrations, CI pipeline  
 
-#### [MapFuture SPA](https://github.com/ym2244/React-projects/tree/master/MapFuture)  
+#### [MapFuture SPA](https://github.com/ym2244/MapFuture)  
 *Single-page travel planner from Azure AI Developer Hackathon*  
 - **Planner Engine:** FastAPI + Groq LLaMA 3.3 multi-agent itinerary generator  
 - **Front End:** React SPA with RESTful API integration, Docker-containerized  
